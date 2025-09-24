@@ -3,12 +3,12 @@
 🎓 Bilgisayar Mühendisliği son sınıf öğrencisiyim (Marmara Üniversitesi)  
 💡 Bilgisayarlarla küçük yaşlardan beri ilgileniyorum ve sürekli öğrenmeye hevesliyim  
 🚀 Yeni teknolojiler keşfetmeyi, projeler geliştirmeyi ve bilgimi paylaşmayı seviyorum  
-🌍 Şu anda Erasmus programı kapsamında IPCA'da öğrenim görmekteyim (Portekiz)  
+🌍 2025 Bahar döneminde Erasmus programı kapsamında IPCA'da öğrenim gördüm (Portekiz)  
 
 🎓 I am a senior Computer Engineering student at Marmara University  
 💡 I've been passionate about computers since childhood and love learning new things  
 🚀 I enjoy exploring new technologies, building projects, and sharing knowledge  
-🌍 Currently studying at IPCA in Portugal as part of the Erasmus+ program  
+🌍 I studied at IPCA in Portugal as part of the Erasmus+ program  
 
 ## 📊 İlgi Alanlarım | My Interests
 
