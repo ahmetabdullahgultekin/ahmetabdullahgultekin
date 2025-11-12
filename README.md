@@ -114,16 +114,6 @@
 
 ---
 
-## 🏆 GitHub Başarıları | GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmetabdullahgultekin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 GitHub İstatistiklerim | GitHub Statistics
 
 <div align="center">
@@ -147,19 +137,6 @@
 
 ---
 
-## 🎯 Şu An Üzerinde Çalıştıklarım | Current Focus
-
-```typescript
-const currentFocus = {
-  learning: ["Advanced Kotlin", "Jetpack Compose", "Cloud Architecture"],
-  building: ["Mobile Applications", "Full-stack Web Apps", "Blockchain Projects"],
-  exploring: ["AI/ML Integration", "Microservices", "DevOps Practices"],
-  improving: ["Problem Solving", "System Design", "Code Quality"]
-};
-```
-
----
-
 ## 📫 İletişim | Let's Connect
 
 <div align="center">
@@ -178,7 +155,7 @@ const currentFocus = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ☕ Kahve İçelim mi? | Let's Grab Coffee?
+---
 
 🧠 **TR:** Her gün yeni bir şey öğrenmeye çalışıyorum. Paylaştığım projeler seni de motive ediyorsa, ⭐ bırakmayı unutma!  
 🧠 **EN:** I'm always trying to learn something new every day. If my projects inspire you, feel free to give them a ⭐!
