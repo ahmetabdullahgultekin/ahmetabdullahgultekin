@@ -3,7 +3,7 @@
 🎓 Bilgisayar Mühendisliği son sınıf öğrencisiyim (Marmara Üniversitesi)  
 💡 Bilgisayarlarla küçük yaşlardan beri ilgileniyorum ve sürekli öğrenmeye hevesliyim  
 🚀 Yeni teknolojiler keşfetmeyi, projeler geliştirmeyi ve bilgimi paylaşmayı seviyorum  
-🌍 2025 Bahar döneminde Erasmus programı kapsamında IPCA'da öğrenim gördüm (Portekiz)  
+🌍 2024-2025 Bahar döneminde Erasmus programı kapsamında IPCA'da öğrenim gördüm (Portekiz)  
 
 🎓 I am a senior Computer Engineering student at Marmara University  
 💡 I've been passionate about computers since childhood and love learning new things  
@@ -15,7 +15,7 @@
 - 📱 Mobil Uygulama Geliştirme | Mobile App Development (Jetpack Compose, Kotlin)  
 - ☁️ Bulut Tabanlı Uygulamalar | Cloud-Based Applications (Firebase, AWS)  
 - 🧠 Makine Öğrenmesi & Yapay Zeka | Machine Learning & Artificial Intelligence (Python)  
-- 🕸️ Web Geliştirme | Web Development (Angular, Spring Boot)  
+- 🕸️ Web Geliştirme | Web Development (React, Spring Boot)  
 - 🔗 Blokzincir Teknolojileri | Blockchain Technologies (Solidity, ZoKrates)  
 
 ## 🔧 Kullandığım Teknolojiler | Technologies I Use
