@@ -40,6 +40,57 @@
 
 ---
 
+## 🚀 Projelerim | My Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### FIVUCSAS
+**Face & Identity Verification Platform**
+Multi-tenant biometric authentication SaaS. 10 auth methods, OAuth 2.0/OIDC, embeddable widget.
+`Spring Boot` `React` `Kotlin Multiplatform` `FastAPI` `PostgreSQL`
+
+### [Mizan](https://github.com/ahmetabdullahgultekin/Mizan)
+**Quranic Text Analysis Engine**
+High-precision letter counting, word analysis, and Abjad calculations.
+`Python` `NLP` `BM25` `Semantic Search`
+
+### [Share-Agent](https://github.com/ahmetabdullahgultekin/Share-Agent)
+**BIST Stock Market Analyzer**
+Real-time portfolio tracking, stop-loss monitoring, multi-window trading.
+`Python` `FastAPI` `Yahoo Finance`
+
+</td>
+<td width="50%" valign="top">
+
+### [Muhabbet](https://github.com/ahmetabdullahgultekin/Muhabbet)
+**Turkish Messaging Platform**
+Privacy-first, KVKK-compliant, end-to-end encrypted.
+`Kotlin` `Spring Boot` `WebSocket`
+
+### [Trainvoc](https://github.com/ahmetabdullahgultekin/Trainvoc)
+**Vocabulary Training App**
+Multiplayer EN-TR word quiz with backend, mobile & web.
+`Kotlin Multiplatform` `Spring Boot` `React`
+
+### [Sarnic](https://github.com/ahmetabdullahgultekin/Sarnic)
+**School Scheduling Platform**
+Multi-tenant scheduling for Turkish education institutions.
+`Java` `Spring Boot` `React` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+### 🌐 Live Sites
+| Project | URL |
+|---------|-----|
+| FIVUCSAS | [fivucsas.com](https://fivucsas.com) |
+| RollingCat Software | [rollingcatsoftware.com](https://rollingcatsoftware.com) |
+
+---
+
 ## 🎯 İlgi Alanlarım | Areas of Interest
 
 <div align="center">
