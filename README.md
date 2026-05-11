@@ -46,8 +46,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### FIVUCSAS
-**Face & Identity Verification Platform**
+### [FIVUCSAS](https://fivucsas.com)
+**Face and Identity Verification Using Cloud-based SaaS**
 Multi-tenant biometric authentication SaaS. 10 auth methods, OAuth 2.0/OIDC, embeddable widget.
 `Spring Boot` `React` `Kotlin Multiplatform` `FastAPI` `PostgreSQL`
 
